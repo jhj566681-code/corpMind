@@ -9,7 +9,6 @@ corpMind 当前方向是企业售后问题调查与处理 Agent，使用虚构�
 - `README.md` 是项目入口，`docs/README.md` 是文档索引及阶段状态。
 - `docs/requirements.md` 定义需求与业务规则；`docs/architecture.md` 是架构和接口初稿。
 - `docs/development-plan.md` 定义里程碑与开发流程；`docs/test-plan.md` 定义验收和评测计划；`docs/release-operations.md` 定义交付计划。
-- `docs/archive-equipment-requirements.md` 仅为历史归档，不属于当前需求。旧的 `samples/equipment-request.txt` 已不存在，不引用为可用资料。
 
 ## 工作方式
 
