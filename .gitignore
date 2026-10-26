@@ -205,6 +205,11 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Project-local tooling, cache and lock-rebuild verification environment
+.tools/
+.uv-cache/
+.venv-verify/
+
 # Ruff stuff:
 .ruff_cache/
 
